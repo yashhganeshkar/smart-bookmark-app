@@ -14,10 +14,6 @@ export default function LoginPage() {
 
     return (
         <main className="min-h-screen flex flex-col items-center justify-center gap-6">
-        {/* App Title */}
-        <h1 className="text-3xl font-bold">
-            Smart Bookmark App 🚀
-        </h1>
 
         {/* Login Button */}
         <button
